@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+  
 ## Polish 🇵🇱
 Cześć! Jestem Stasiek Szafrański, doświadczony specjalista digital marketingu z ponad 6-letnim doświadczeniem w branży technologicznej samochodowej. Specjalizuję się w obsłudze klientów B2B i B2C, organizując ogólnokrajowe kampanie i zarządzając stronami internetowymi, poprawiając doświadczenie użytkownika poprzez tworzenie kodu HTML, CSS i Javascript.
 
